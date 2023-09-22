@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/c-villain/YandexMapsMobile",
       "state" : {
-        "revision" : "4afaf4809959276f1eaf4788d48a0c7974b36093",
-        "version" : "4.4.0"
+        "revision" : "d5d2c4b92c519fa3d220eeaa057b0d27b3dbb149",
+        "version" : "4.3.1"
       }
     }
   ],
